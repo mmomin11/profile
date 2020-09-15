@@ -1,4 +1,5 @@
 import React from 'react';
+import pdf from '../img/resume.pdf';
 
 function About() {
 	return (
@@ -33,6 +34,9 @@ function About() {
 						target="_blank"
 					>
 						<i className="fab fa-github"></i>
+					</a>
+					<a className="social-icon" href={pdf} target="_blank">
+						<i className="fas fa-file"></i>
 					</a>
 				</div>
 			</div>
