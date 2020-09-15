@@ -1,6 +1,6 @@
 # Mubin's Portfolio
 
-
+View portfolio [here](https://mmomin11.github.io/profile/)
 
 
 ## Value
