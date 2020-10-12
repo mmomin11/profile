@@ -78,9 +78,9 @@ function Portfolio() {
 				<div className="d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div className="flex-grow-1">
 						<h3 className="mb-0">
-							Password Generator
+							Project 3 - Autoban 2.0
 							<a
-								href="https://github.com/mmomin11/password_generator"
+								href="https://github.com/TheAutobanApp/Autoban"
 								target="_blank"
 							>
 								<button
@@ -93,18 +93,22 @@ function Portfolio() {
 							</a>
 						</h3>
 						<div className="subheading mb-3">
-							Link:
-							<a href="https://mmomin11.github.io/password_generator/">
-								Password Generator Site
-							</a>
+							Web Link:
+							<a href="https://autobanprod.herokuapp.com/">Autoban App</a>
 						</div>
 						<p>
-							This application will allow you to quickly generate a password
-							with the criteria you have selected from a series of prompts.
+							An app to help keep your team activities organized and up-to-date.
+							This app allows the user to create teams and projects within those
+							teams and be able to add team members to edit and view created
+							projects. This is our 2.0 version where we added the ability to
+							add Collaborators to your Team through a search modal of
+							individuals using Autoban. Also, updated the Project view to
+							include Drag and Drop functionality to move tasks between
+							different columns.
 						</p>
 					</div>
 					<div>
-						<img src={imgarray[1]} alt="" width="150px" />
+						<img src={imgarray[5]} alt="" width="150px" />
 					</div>
 				</div>
 
